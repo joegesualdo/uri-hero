@@ -1,5 +1,5 @@
 ## URI Hero
-> Read and manipulate URI string
+> Read and manipulate URI strings
 
 ## Install
 ```
